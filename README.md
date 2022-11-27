@@ -11,7 +11,7 @@ Building a MySQL database solution to store information from multiple DNA testin
 
 
 
-## Technical Details
+### Technical Details
   
   
-## Credits
+### Credits
