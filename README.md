@@ -1,36 +1,17 @@
-# ancestry_database_project
+# Database for Ancestry Data
 
-## Description
+Building a MySQL database solution to store information from multiple DNA testing sites including Ancestry.com, My Heritage, FamilyTree DNA (FTDNA) , and GED Match.
 
 
-3. Table of Contents
+### The Use Case
 
-<!-- Insert Banner photo of dashboard -->
+### Data Sets
 
-4. Business Case
 
-5. Summarize Data Set
 
-<!-- Insert image of the database EER diagram -->
 
-6. Summarize Insights and Impact
 
-ADD the questions and the answers
-
-7. Technical Details
-  This is the more in-depth longer version of the process
-  
-  A. Ask
-  
-  B. Prepare
-  
-  C. Process
-  
-  D. Analyze
-  
-  E. Share
-  
-  F. Further Considerations
+## Technical Details
   
   
- 8. Credits
+## Credits
